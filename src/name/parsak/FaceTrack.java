@@ -21,7 +21,8 @@ public class FaceTrack {
 
 	private static Mat frame;
 	private static Mat grayframe;
-	private static final String haarcascade = "haarcascade_frontalface_alt.xml";
+	//private static final String haarcascade = "haarcascade_frontalface_alt.xml";
+	private static final String haarcascade = "haarcascade_frontalface_improved.xml";
 	
 	private static boolean loaded = false;
 	
