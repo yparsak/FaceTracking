@@ -18,3 +18,5 @@ If you export the jar file, you should have opencv_java330.dll in the same direc
 Use
 * x64/opencv_java330.dll (for 64 bit OS)
 * x86/opencv_java330.dll (for 32 bit OS)
+
+The cascade XML file should also need to be in the same directory.
