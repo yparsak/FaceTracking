@@ -1,5 +1,5 @@
 # FaceTracking
-Face Tracking using OpenCV
+Face Tracking using OpenCV (Java). It captures video from camera, and draws rectangles around faces.
 
 Download OpenCV, and extract it to a directory.
 
